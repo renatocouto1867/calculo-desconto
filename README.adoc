@@ -36,4 +36,5 @@ O programa deve apenas permitir que seja mudado o algoritmo de cálculo do desco
     O codigo pode ficar engessado por exemplo.
 
 4. Implemente o projeto e envie o link para repositório no GitHub, onde o README deve conter as respostas.
+    R: https://github.com/renatocouto1867/calculo-desconto.git
 
